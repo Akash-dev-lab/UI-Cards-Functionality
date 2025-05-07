@@ -5,7 +5,7 @@ A simple, responsive UI profile cards application built with HTML, CSS, and Java
 ## Features
 
 - **Dynamic Profile Cards:** Displays a list of user profile cards with image, name, designation, status, skills, and about section.
-- **Friend Request Simulation:** Each card has a button to "Add Friend", which changes status to "Waiting for response..." and then to "Friends" after 5 seconds. You can also remove a friend.
+- **Friend Request Simulation:** Each card has a button to "Add Friend", which changes status to "Waiting for response..." and then to "Friends" after 2 seconds. You can also remove a friend.
 - **Responsive Design:** The layout adapts to different screen sizes for optimal viewing on desktop and mobile devices.
 - **Skill Badges:** Shows user skills as badges on each card.
 

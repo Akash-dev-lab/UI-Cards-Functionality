@@ -91,7 +91,7 @@ function updateStatus(idx) {
     setTimeout(() => {
       user.istatus = "Friends 👩‍❤️‍👨";
       hero();
-    }, 5000);
+    }, 2000);
   } else if (user.istatus === "Friends 👩‍❤️‍👨") {
     user.istatus = "Stranger 🧟‍♀️";
     hero();
